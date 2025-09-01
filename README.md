@@ -1,4 +1,4 @@
-# HealthCare_Failure_Prediction_Dashboard
+# HealthCare_Failure_Prediction_Dashboard(Tableau Dashboard)
 
 🏥 Overview
 The "HealthCare Failure Prediction Dashboard" is a comprehensive data visualization project created with Tableau to address critical issues within the healthcare sector. By analyzing a rich dataset, this dashboard provides key insights and predictive analytics that can help healthcare professionals, administrators, and researchers anticipate potential failures and make data-driven decisions to enhance patient care and operational efficiency. The dashboard focuses on transforming raw data into actionable insights, making complex healthcare trends easy to understand and act upon.
